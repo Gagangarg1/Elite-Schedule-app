@@ -1,2 +1,3 @@
-# GigHUB
-Repository to contain GigHub project 
+# Elite-Schedule App
+
+Test Repo for my IONIC app
